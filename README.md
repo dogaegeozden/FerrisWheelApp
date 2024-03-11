@@ -4,16 +4,14 @@
 
 ## Introduction
 
-This is a product landing page that I designed for Tamrinotte's AI(tai). 
+This is a ferris wheel animation that I have done with html and css. 
 
 ## Features
 
-- **Clear and Concise**: Easy-to-understand explanations and examples for each topic covered.
-- **Interactive Navigation**: Navigate through different sections effortlessly with the interactive navigation bar.
-- **Responsive Design**: Access the landing page from any device, ensuring a seamless user experience.
+- **Infinitely Repeating Animations**: It keeps playing the animation without stopping.
+- **Different Timing Functions**: Uses different timing functions to create natural swinging motion.
 
 ## Technologies Used
 
 - HTML
 - CSS
-- Bootsrap
